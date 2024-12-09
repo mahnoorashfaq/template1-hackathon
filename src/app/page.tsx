@@ -147,26 +147,26 @@ export default function Home() {
     <div className="review-box1 h-44 w-44 flex flex-col justify-center pl-4 pr-4 rounded-xl">
     <p className="flex text-base text-yellow-500 pb-2"><LiaStarSolid /> <LiaStarSolid /> <LiaStarSolid /> <LiaStarSolid /> <LiaStarSolid /> </p>
     <p className="flex font-semibold text-sm md:text-base pb-2 items-center gap-2">Sarah M. <span className="h-5 w-5 rounded-full bg-green-600 text-white flex justify-center items-center"><TiTick />    </span></p>
-    <p className="text-xs ">"I'm blown away by the quality and style of the <br />
-     clothes I received from Shop.co. From casual <br />
-     wear to elegant dresses, every piece I've bought <br />
+    <p className="text-xs">I m blown away by the quality and style of the <br />
+     clothes I received from Shopco From casual <br />
+     wear to elegant dresses every piece I ve bought <br />
      has exceeded my expectations.</p>
     </div>
     <div className="review-box1 h-44  flex flex-col justify-center pl-4 pr-4 rounded-xl">
     <p className="flex text-base text-yellow-500 pb-2 "><LiaStarSolid /> <LiaStarSolid /> <LiaStarSolid /> <LiaStarSolid /> <LiaStarSolid /> </p>
     <p className="flex font-semibold text-sm md:text-base pb-2 items-center gap-2">Alex K. <span  className="h-5 w-5 rounded-full bg-green-600 text-white flex justify-center items-center"><TiTick />    </span></p>
-    <p className="text-xs ">"I'm blown away by the quality and style of the <br />
-     clothes I received from Shop.co. From casual <br />
-     wear to elegant dresses, every piece I've bought <br />
+    <p className="text-xs ">I m blown away by the quality and style of the <br />
+     clothes I received from Shop co From casual <br />
+     wear to elegant dresses every piece I ve bought <br />
      has exceeded my expectations.</p>
     </div>
 
     <div className="review-box1 h-44  flex flex-col justify-center pl-4 pr-4 rounded-xl">
     <p className="flex text-base text-yellow-500 pb-2 "><LiaStarSolid /> <LiaStarSolid /> <LiaStarSolid /> <LiaStarSolid /> <LiaStarSolid /> </p>
     <p className="flex font-semibold text-sm md:text-base pb-2 items-center gap-2">James L. <span  className="h-5 w-5 rounded-full bg-green-600 text-white flex justify-center items-center"><TiTick />    </span></p>
-    <p className="text-xs ">"I'm blown away by the quality and style of the <br />
-     clothes I received from Shop.co. From casual <br />
-     wear to elegant dresses, every piece I've bought <br />
+    <p className="text-xs ">I m blown away by the quality and style of the <br />
+     clothes I received from Shop co From casual <br />
+     wear to elegant dresses every piece I ve bought <br />
      has exceeded my expectations.</p>
     </div>
 
